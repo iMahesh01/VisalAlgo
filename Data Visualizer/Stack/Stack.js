@@ -21,7 +21,7 @@ let grid = document.querySelector('.grid');
                 }
                 //procedure for incrementing the pointer
                 else if (k > 1) {
-                    let size = 456 - ((k - 1) * 42);
+                    let size = 456 - ((k - 2) * 42);
                     let z = size.toString();
                     z = z + "px";
                     let pic = document.getElementById("pic");
@@ -46,7 +46,7 @@ let grid = document.querySelector('.grid');
             }
             //procedure for decrementing the pointer
             else if (k >= 1) {
-                let size = 456 - ((k - 1) * 42);
+                let size = 456 - ((k - 2) * 42);
                 let z = size.toString();
                 z = z + "px";
                 let pic = document.getElementById("pic");
