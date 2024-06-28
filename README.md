@@ -6,3 +6,4 @@ VisualAlgo is a  web application, users can visualize algorithms such as bubble 
 ![Screenshot 2024-02-12 172445](https://github.com/iMahesh01/DATA-VISUALIZER/assets/96873662/e92eea4a-1367-45fd-9be9-f382297bf5d4)
 ![latest](https://github.com/iMahesh01/DATA-VISUALIZER/assets/96873662/e1d99cee-b503-4c8f-98c0-bd2bac7ef0cd)
 
+![screenshot](https://github.com/iMahesh01/VisalAlgo/assets/96873662/bcf228d6-6a73-4456-9533-8369c312a2e1)
